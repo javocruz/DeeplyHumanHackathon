@@ -4,8 +4,8 @@ import math
 import time
 import numpy as np
 
-SUPABASE_URL = "https://ziafykczhnjcfcmxleba.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InppYWZ5a2N6aG5qY2ZjbXhsZWJhIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2OTAwNjAwNywiZXhwIjoyMDg0NTgyMDA3fQ.pdoV-n6DRJFk9WVHRGSBntBWy-CVRSRCJHGMnhLnscs"
+SUPABASE_URL = ""
+SUPABASE_KEY = ""
 
 TABLE_NAME = "Countries datapoints"
 CSV_PATH = "merged_output.csv"
