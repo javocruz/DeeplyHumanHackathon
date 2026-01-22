@@ -74,6 +74,5 @@ user_scores = {
 scored_df = compute_score_from_priorities(meta_df, user_scores)
 selected_columns = select_columns_with_randomness(scored_df)
 
-print("Recommended columns based on user priorities:")
 for col in selected_columns:
-    print(" -", col)
+    print(col)
