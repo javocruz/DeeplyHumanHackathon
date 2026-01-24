@@ -9,8 +9,8 @@ warnings.filterwarnings('ignore')
 # ========================= 
 # CONFIG SUPABASE
 # ========================= 
-SUPABASE_URL = os.getenv("SUPABASE_URL", "https://ziafykczhnjcfcmxleba.supabase.co")
-SUPABASE_KEY = os.getenv("SUPABASE_KEY", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InppYWZ5a2N6aG5qY2ZjbXhsZWJhIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2OTAwNjAwNywiZXhwIjoyMDg0NTgyMDA3fQ.pdoV-n6DRJFk9WVHRGSBntBWy-CVRSRCJHGMnhLnscs")
+SUPABASE_URL = os.getenv("SUPABASE_URL", "Supabase_URL")
+SUPABASE_KEY = os.getenv("SUPABASE_KEY", "Supabse_KEY")
 METADATA_PATH = "column_metadata.csv"
 
 # Configuración
